@@ -94,4 +94,5 @@ Conclusión
 Este proyecto demuestra cómo interactuar con la API de Gemini para realizar tareas de procesamiento de texto, como consultas simples, resúmenes y profesionalización de textos. También incluye la implementación de un chat de soporte con historial, lo que permite mantener un flujo continuo de la conversación.
 ### **Autor**
 Catalina Gordillo Peña
+
 Sara Murcia Rojas
